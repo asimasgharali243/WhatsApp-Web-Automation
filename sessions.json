@@ -1,0 +1,16 @@
+{
+  "business_acme": {
+    "sessionId": "user_business_acme_1781182505051",
+    "phoneNumber": "923401669334",
+    "status": "initializing",
+    "createdAt": "2026-06-11T12:55:05.051Z",
+    "qrCode": null
+  },
+  "test_user_1781182870999": {
+    "sessionId": "user_test_user_1781182870999_1781182871110",
+    "phoneNumber": "923401669334",
+    "status": "initializing",
+    "createdAt": "2026-06-11T13:01:11.111Z",
+    "qrCode": null
+  }
+}

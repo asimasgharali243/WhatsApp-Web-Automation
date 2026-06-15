@@ -1,0 +1,12 @@
+node_modules
+.env
+dist
+build
+.cache
+user_sessions/
+sessions/
+logs/
+invoices
+.vs
+*.png
+*.jpg
