@@ -1,4 +1,10 @@
-# WhatsApp Web Automation — Invoice Messaging Service
+# WhatsApp Workflow Automation Service | Node.js, Redis, BullMQ
+
+Node.js service for authorized WhatsApp Web workflows with Express API, whatsapp-web.js client, BullMQ queue, Redis and PM2 deployment configuration.
+
+**Explore this repository:** [Architecture](docs/ARCHITECTURE.md) · [Developer runbook](docs/RUNBOOK.md) · [Screenshot evidence guide](docs/SCREENSHOT_GUIDE.md) · [Audit](docs/PORTFOLIO_AUDIT.md)
+
+**Discoverability topics:** `whatsapp-automation` · `nodejs` · `express` · `bullmq` · `redis` · `queue` · `automation`. These are suggested GitHub repository topics, not a claim that the repository settings have been updated.
 
 > **Status:** Source-reviewed documentation draft. Runtime startup, end-to-end tests and screenshots have **not** been independently verified. Review PR before merging.
 
