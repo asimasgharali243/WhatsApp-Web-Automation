@@ -10,3 +10,19 @@ invoices
 .vs
 *.png
 *.jpg
+
+# Local secrets and runtime records
+.env
+.env.*
+!.env.example
+!.env.qa.example
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.qa.example
+**/*firebase-adminsdk*.json
+**/.wwebjs_cache/
+**/.wwebjs_auth/
+**/user_sessions/
+sessions.json
+**/wwwroot/uploads/
